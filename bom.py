@@ -20,10 +20,10 @@ ban=('''
 logo2= ('''
 \033[1;36m============================================================
  
-\033[1;92m[+] AUTHOR       :   Md. Al Mamun  Talukder Apurbo 
-\x1b[1;92m[+] FACEBOOK     :   Al Mamun  Talukder Apurbo 
-\x1b[1;92m[+] GITHUB       :   devoloeperAl Mamun 
-\x1b[1;12m[+] TEAM         :   \33[1;42  Al Mamun \33[0m
+\033[1;92m[+] AUTHOR       :   Md. Al Mamun Kham 
+\x1b[1;92m[+] FACEBOOK     :   hunterking42
+\x1b[1;92m[+] GITHUB       :   Al Mamun Khan 
+\x1b[1;12m[+] TEAM         :   \33[1;42  HUNTER \33[0m
 \033[1;92m[+] TOOLS        :   SMS BOMB BD NUMBER 
  
 \033[1;36m============================================================
@@ -78,8 +78,8 @@ x="XAK"
 user=str(input(f"\n\n{w}USERNAME {r}=>{y} "))
 pas=str(input(f"{w}PASSWORD {r}=>{y} "))
 rp= 'Mamun'
-x = 'Mamun'
-if 'Mamun'==user and 'Mamun'==pas:
+x = 'Nishu'
+if 'Mamun'==user and 'Nishu'==pas:
         Axak(g+"\n\n\t\t      LOGIN SUCCESSFUL  ")
  
 else:
