@@ -289,7 +289,7 @@ headers20["Content-Type"] = "application/json"
  
 data20 = '{"phone": "0'+number+'"}'
  
-os.system("xdg-open https://facebook.com/cyberAl Mamun /")
+os.system("xdg-open https://facebook.com/hunterking42")
  
 
 # Request
